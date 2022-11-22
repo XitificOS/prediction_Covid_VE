@@ -1,0 +1,87 @@
+Vaccine,Dose,Days_after,Variant,Age,Efficacy_Definition,Country,Efficacy,LCL,UCL,Prior_Covid,Comment.source,Ref,Design,Study
+Comirnaty,1,28,B.1.617.2,all,SYM,Scotland,33,15,47,,Sheikh,Sheikh2021,,15
+Comirnaty,2,14,B.1.617.2,all,SYM,Scotland,83,78,87,,Sheikh,Sheikh2021,,15
+Comirnaty,1,28,B.1.1.7,all,SYM,Scotland,27,13,39,,Sheikh,Sheikh2021,,15
+Comirnaty,2,14,B.1.1.7,all,SYM,Scotland,92,88,94,,Sheikh,Sheikh2021,,15
+Comirnaty,1,21,B.1.617.2,all,SYM,England,35.6,22.7,46.4,0,Lopez Bernal,Bernal2021a,,3
+Comirnaty,2,14,B.1.617.2,all,SYM,England,88,85.3,90.1,0,Lopez Bernal,Bernal2021a,,3
+Comirnaty,1,21,B.1.1.7,all,SYM,England,47.5,41.6,52.8,0,Lopez Bernal,Bernal2021a,,3
+Comirnaty,2,14,B.1.1.7,all,SYM,England,93.7,91.6,95.3,0,Lopez Bernal,Bernal2021a,,3
+Comirnaty,2,7,B.1.1.7,all,SYM,Israel,96.6,95.8,97.2,0,Israel efficacy israel B.1.1.7,Haas2021,,6
+Comirnaty,1,14,D614G,all,SYM,US Trial,85.74,59.33,97.45,0,Pfizer Derived Table Letter,PfizerBioNTechFDA2020,,11
+Comirnaty,2,7,D614G,all,SYM,US Trial,95,90,97.9,0,Pfizer trial result,PfizerPhase2and3On2020,,11
+Comirnaty,1,14,B.1.1.7,all,SYM,Canada,67,65,68,0,Nasreen2022,Nasreen2022,,9
+Comirnaty,2,7,B.1.1.7,all,SYM,Canada,89,87,90,0,Nasreen2022,Nasreen2022,,9
+Comirnaty,1,14,B.1.617.2,all,SYM,Canada,57,53,61,0,Nasreen2022,Nasreen2022,,9
+Comirnaty,2,7,B.1.617.2,all,SYM,Canada,92,90,94,0,Nasreen2022,Nasreen2022,,9
+Comirnaty,1,14,D614G,all,SYM,Canada,63,56,68,0,Nasreen2022,Nasreen2022,,9
+Comirnaty,2,7,D614G,all,SYM,Canada,93,88,95,0,Nasreen2022,Nasreen2022,,9
+Comirnaty,2,7,D614G,all,SYM,France,88,81,92,,"France, 13% Moderna",Charmet2021,,4
+Comirnaty,2,7,B.1.1.7,all,SYM,France,86,81,90,,France,Charmet2021,,4
+Comirnaty,1,21,B.1.617.2,all,SYM,England_August,58,51,64,1,Powels,Pouwels2021,,13
+Comirnaty,2,14,B.1.617.2,all,SYM,England_August,84,82,86,1,Powels,Pouwels2021,,13
+Comirnaty,1,14,B.1.617.2,all,SYM,Qatar,56.2,30.6,72.4,1,Tang,Tang2021,,16
+Comirnaty,1,NA,B.1.1.7,all,SYM,Spain,50,12,72,0,"Martinez-Baz, till april 18-59yo",MartinezBaz2021a,,7
+Comirnaty,2,NA,B.1.1.7,all,SYM,Spain,85,74,91,0,"Martinez-Baz, till april 18-59yo",MartinezBaz2021a,,7
+Comirnaty,2,7,B.1.1.7,all,SYM,US,88.9,78.7,94.2,0,"Pilishvili NEJM, TNCC, health",Pilishvili2021,TNCC,12
+Comirnaty,1,14,B.1.617.2,all,SYM,Spain,66,60,71,0,Martinez-Baz 2 ap/aug,MartinezBaz2021b,Prospective Cohort,7
+Comirnaty,2,14,B.1.617.2,all,SYM,Spain,72,69,75,0,Martinez-Baz 2 ap/aug,MartinezBaz2021b,Prospective Cohort,7
+Comirnaty,1,21,B.1.1.7,all,SYM,UK,78,72,83,0,"Pritchard, ONS from OR ",Pritchard2021,,14
+Comirnaty,2,21,B.1.1.7,all,SYM,UK,95,91,98,0,"Pritchard, ONS from OR",Pritchard2021,,14
+Comirnaty,1,14,B.1.351,all,SYM,Canada,50,15,70,0,Nasreen2022,Nasreen2022,,9
+Comirnaty,2,7,B.1.351,all,SYM,Canada,87,8,98,0,Nasreen2022,Nasreen2022,,9
+Comirnaty,1,1,B.1.1.7,all,DTH,Hungary,64.3,61.8,66.6,1,Voko,,,
+Comirnaty,2,14,B.1.1.7,all,DTH,Hungary,90.3,88.9,91.5,1,Voko,,,
+Comirnaty,1,42,B.1.1.7,all,HSP,Finland,90,27,99,0,Poukka,,,
+Comirnaty,2,14,B.1.1.7,all,HSP,Finland,95,64,99,0,Poukka,,,
+Comirnaty,1,42,B.1.617.2,all,HSP,Finland,83,68,91,0,Poukka,,,
+Comirnaty,2,14,B.1.617.2,all,HSP,Finland,99.9,97,100,0,Poukka,,,
+Comirnaty,1,28,B.1.1.7,all,SYM,UK,45.9,44.2,51.2,0,Andrews,Andrews2022,TNCC,2
+Comirnaty,2,14,B.1.1.7,all,SYM,UK,94.9,93.6,95.9,0,Andrews,Andrews2022,TNCC,2
+Comirnaty,2,14,B.1.617.2,all,HSP,Canada,98,97,98,0,"Skowronski, Oct",,,
+Comirnaty,2,14,B.1.1.7,all,HSP,Canada,96,83,99,0,"Skowronski, Oct",,,
+Comirnaty,1,14,B.1.1.7,all,HSP,Israel,74.5,69.1,79,0,Glatman-Freedman,,,
+Comirnaty,2,8,B.1.1.7,all,HSP,Israel,99,98,99,0,Glatman-Freedman,,,
+Comirnaty,1,28,B.1.1.7,all,HSP,England,85,82,88,0,Andrews,,,
+Comirnaty,2,14,B.1.1.7,all,HSP,England,98,91.4,99.5,0,Andrews,,,
+Comirnaty,1,28,B.1.617.2,all,HSP,England,92,90,93,0,Andrews,,,
+Comirnaty,2,14,B.1.617.2,all,HSP,England,97,96,97,0,Andrews,,,
+Comirnaty,2,14,B.1.617.2,all,HSP,USA,80,73,85,1,Grannis,,,
+Comirnaty,1,14,B.1.617.2,all,HSP,USA,79,-49,97,1,Tartof,,,
+Comirnaty,2,7,B.1.617.2,all,HSP,USA,93,84,96,1,Tartof,,,
+Comirnaty,1,14,B.1.617.2,all,HSP,Qatar,84.5,-25.2,98.1,1,Tang,,,
+Comirnaty,2,14,B.1.617.2,all,HSP,Qatar,94,86,97.6,1,Tang,,,
+Comirnaty,1,14,B.1.351,all,HSP,Qatar,74.8,-7.6,94.1,1,Tang,,,
+Comirnaty,2,14,B.1.351,all,HSP,Qatar,92.7,81.5,97.1,1,Tang,,,
+Comirnaty,1,14,B.1.351,all,HSP,Canada,64,31,82,0,Nasreen,,,
+Comirnaty,2,14,B.1.351,all,HSP,Canada,92,39,99,0,Nasreen,,,
+Comirnaty,1,14,D614G,all,HSP,Canada,77,67,84,0,Nasreen,,,
+Comirnaty,2,14,D614G,all,HSP,Canada,97,88,99,0,Nasreen,,,
+Comirnaty,1,14,B.1.1.7,all,HSP,Canada,82,81,84,0,Nasreen,,,
+Comirnaty,2,14,B.1.1.7,all,HSP,Canada,96,94,97,0,Nasreen,,,
+Comirnaty,1,14,B.1.617.2,all,HSP,Canada,81,76,85,0,Nasreen,,,
+Comirnaty,2,14,B.1.617.2,all,HSP,Canada,98,96,99,0,Nasreen,,,
+Comirnaty,1,21,B.1.1.7,all,HSP,UK,83,62,93,1,Stowe,,,
+Comirnaty,2,14,B.1.1.7,all,HSP,UK,95,78,99,1,Stowe,,,
+Comirnaty,1,21,B.1.617.2,all,HSP,UK,94,46,99,1,Stowe,,,
+Comirnaty,2,14,B.1.617.2,all,HSP,UK,96,86,99,1,Stowe,,,
+Comirnaty,1,14,B.1.1.7,all,HSP,Spain,65,25,83,0,"Martinez-Baz, till April",,,
+Comirnaty,2,14,B.1.1.7,all,HSP,Spain,94,60,99,0,"Martinez-Baz, till April",,,
+Comirnaty,1,14,D614G,all,HSP,Canada,69,59,77,0,Chung,,,
+Comirnaty,2,1,D614G,all,HSP,Canada,96,82,99,0,Chung,,,
+Comirnaty,1,14,B.1.1.7,all,HSP,Canada,59,39,73,0,Chung,,,
+Comirnaty,2,1,B.1.1.7,all,HSP,Canada,94,59,99,0,Chung,,,
+Comirnaty,1,17,B.1.1.7,all,HSP,Qatar,72,32,90,,Abu-Raddad,,,
+Comirnaty,2,14,B.1.1.7,all,HSP,Qatar,99.9,82,100,,Abu-Raddad,,,
+Comirnaty,1,17,B.1.351,all,HSP,Qatar,56.5,0,82.8,,Abu-Raddad,,,
+Comirnaty,2,14,B.1.351,all,HSP,Qatar,99.9,74,100,,Abu-Raddad,,,
+Comirnaty,2,14,B.1.351,all,SYM,Qatar,75,70.5,78.9,,"85% Sympt and TNCC, rest Infection",Abu-Raddad2021,TNCC,1
+Comirnaty,2,7,B.1.351,all,SYM,Israel,94,90,98,0,Mor,Mor2021,,8
+Comirnaty,1,28,B.1.617.2,all,SYM,UK,51.2,50.7,51.7,0,Andrews,Andrews2022,TNCC,2
+Comirnaty,2,14,B.1.617.2,all,SYM,UK,83.3,83.1,83.5,0,Andrews,Andrews2022,TNCC,2
+Comirnaty,1,14,B.1.1.7,all,SYM,Israel,58.3,54.7,61.6,0,Glatman-Freedman,GlatmanFreedman2021,Retrospective,5
+Comirnaty,2,8,B.1.1.7,all,SYM,Israel,93.6,92.7,94.3,0,Glatman-Freedman,GlatmanFreedman2021,longitudinal,5
+Comirnaty,2,14,B.1.617.2,all,SYM,Sweden,78,78,79,0,Nordstrom1,Nordstrom2021,Retrospective Cohort,10
+Comirnaty,1,14,B.1.351,all,SYM,Qatar,16.9,10.4,23,,"85% Sympt and TNCC, rest Infection",Abu-Raddad2021,TNCC,1
+Comirnaty,1,14,B.1.1.7,all,SYM,Qatar,29.5,22.9,35.5,,"85% Sympt and TNCC, rest Infection",Abu-Raddad2021,TNCC,1
+Comirnaty,2,14,B.1.1.7,all,SYM,Qatar,89.5,85.9,92.3,,"85% Sympt and TNCC, rest Infection",Abu-Raddad2021,TNCC,1

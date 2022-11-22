@@ -1,0 +1,29 @@
+Vaccine,Days_after,Dose,Disease,Variant,Date_Start,Date_End,Age_Start,Age_End,Efficacy_Definition,Country,Efficacy,LCL,UCL,Prior_Covid,Comment.source,Note,Age,FollowUp,Ref
+Comirnaty,7,2,Diabetes,B.1.1.7,19 Dec 2020,20 Feb 2021,16,85,SYM,Israel,87.1,73,94,0,Chodick,mixd with D614G,all,,Chodick2021
+Comirnaty,28,1,Diabetes,B.1.1.7,7 Dec 2020,16 May 2021,16,85,SYM,UK,54.4,41.8,64.2,0,Whittaker,alpha mainly,all,,Whitaker2022
+Comirnaty,14,2,Diabetes,B.1.1.7,7 Dec 2020,16 May 2021,16,85,SYM,UK,77.1,60.9,86.6,0,Whittaker,alpha mainly,all,,Whitaker2022
+Vaxzevria,28,1,Diabetes,B.1.1.7,7 Dec 2020,16 May 2021,16,85,SYM,UK,43.2,26,56.3,0,Whittaker,alpha mainly,all,,Whitaker2022
+Vaxzevria,14,2,Diabetes,B.1.1.7,7 Dec 2020,16 May 2021,16,85,SYM,UK,72.9,25.8,90.1,0,Whittaker,alpha mainly,all,,Whitaker2022
+Comirnaty,14,1,Diabetes,B.1.1.7,14 Dec 2020,14 Mar 2021,18,85,SYM,USA,51,37,62,0,YoungXu,"veterans, alpha mainly",all,,YoungXu2021
+Comirnaty,14,2,Diabetes,B.1.1.7,14 Dec 2020,14 Mar 2021,18,85,SYM,USA,91,83,95,0,YoungXu,"veterans, alpha mainly",all,,YoungXu2021
+Comirnaty,21,1,Diabetes,B.1.1.7,20 Dec 2020,1 Feb 2021,16,85,SYM,Israel,48,14,68,0,Dagan,"alpha mainly, days 14-20",all,,Dagan2021
+Comirnaty,7,2,Diabetes,B.1.1.7,20 Dec 2020,14 Feb 2021,16,85,SYM,Israel,86,76,94,0,Dagan,alpha mainly,all,,Dagan2021
+Comirnaty,28,1,Kidney,B.1.1.7,7 Dec 2020,16 May 2021,16,85,SYM,UK,55.1,43.1,64.6,0,Whittaker,alpha mainly,all,,Whitaker2022
+Comirnaty,14,2,Kidney,B.1.1.7,7 Dec 2020,16 May 2021,16,85,SYM,UK,76,62,84.9,0,Whittaker,alpha mainly,all,,Whitaker2022
+Comirnaty,14,2,Healthy,B.1.1.7,7 Dec 2020,16 May 2021,16,85,SYM,UK,-57.2,-393.5,49.9,0,Whittaker,,all,,Whitaker2022
+Vaxzevria,28,1,Kidney,B.1.1.7,7 Dec 2020,16 May 2021,16,85,SYM,UK,45.1,26.2,59.1,0,Whittaker,alpha mainly,all,,Whitaker2022
+Vaxzevria,14,2,Kidney,B.1.1.7,7 Dec 2020,16 May 2021,16,85,SYM,UK,87.2,47.9,96.9,0,Whittaker,alpha mainly,all,,Whitaker2022
+Comirnaty,14,1,Kidney,B.1.1.7,14 Dec 2020,14 Mar 2021,18,85,SYM,USA,56,36,70,0,YoungXu,"veterans, alpha mainly",all,,YoungXu2021
+Comirnaty,14,2,Kidney,B.1.1.7,14 Dec 2020,14 Mar 2021,18,85,SYM,USA,85,67,93,0,YoungXu,"veterans, alpha mainly",all,,YoungXu2021
+Comirnaty,7,2,Kidney,B.1.1.7,20 Dec 2020,14 Feb 2021,16,85,SYM,Israel,76,14,100,0,Dagan,alpha mainly,all,,Dagan2021
+Comirnaty,7,2,Healthy,B.1.1.7,19 Dec 2020,20 Feb 2021,16,85,SYM,Israel,94.1,87.9,97.3,0,Chodick,mixd with D614G,all,,Chodick2021
+Comirnaty,14,2,Healthy,B.1.1.7,14 Dec 2020,14 Mar 2021,18,85,SYM,USA,93,89,95.0,0,YoungXu,"veterans, alpha mainly",all,,YoungXu2021
+Comirnaty,14,1,Healthy,B.1.1.7,14 Dec 2020,14 Mar 2021,18,85,SYM,USA,52.0,44,60,0,YoungXu,"veterans, alpha mainly",all,,YoungXu2021
+Comirnaty,21,1,Healthy,B.1.1.7,20 Dec 2020,1 Feb 2021,16,85,SYM,Israel,56,51,61,0,Dagan,"alpha mainly, days 14-20",all,,Dagan2021
+Comirnaty,7,2,Healthy,B.1.1.7,20 Dec 2020,14 Feb 2021,16,85,SYM,Israel,96,94,97,0,Dagan,alpha mainly,all,,Dagan2021
+Comirnaty,7,2,Diabetes,B.1.1.7,18 Dec 2020,19 May 2021,16,85,SYM,USA,80.2,45.8,92.7,0,Pillishvilli,"HCW, 20% Moderna",all,14,Pilishvili2021
+Comirnaty,7,2,Healthy,B.1.1.7,18 Dec 2020,19 May 2021,16,85,SYM,USA,88.8,84.6,91.8,0,Pillishvilli,"HCW, 20% Moderna",all,14,Pilishvili2021
+Comirnaty,14,2,Dialysis,B.1.1.7,26 Jan 2021,31 Aug 2021,16,85,INF,USA,68.9,61.9,74.7,0,Butt,"Veterans, Prop Scores",all,,Butt2022
+Comirnaty,14,2,Dialysis,B.1.1.7,21 Dec 2020,30 Jun 2021,16,85,INF,Canada,64,45,76,0,Oliver,Max follow up,all,27,Oliver2022
+Comirnaty,21,2,Dialysis,B.1.1.7,1 Jan 2021,30 Apr 2021,16,85,INF,USA,89,76,95,0,Sibbel," Prop Scores, Med Follow, 22 days after 2nd dose",all,6,
+Comirnaty,21,2,Dialysis,B.1.1.7,1 Jan 2021,30 Apr 2021,16,85,INF,USA,78.0,65.0,87,1,Sibbel," Prop Scores, Med Follow, 7.5% Covid",all,6,
