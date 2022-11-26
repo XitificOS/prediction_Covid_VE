@@ -1,6 +1,7 @@
 
 Code and data repo for paper "Prediction of Covid-19 vaccine effectiveness in adult populations
-and in clinically-vulnerable subgroups" by O. Volkov, S. Borozdenkova and A. Gray. 
+and in clinically-vulnerable subgroups" by O. Volkov, S. Borozdenkova and A. Gray. medRxiv. 2022 November. 
+https://www.medrxiv.org/content/10.1101/2022.11.22.22282637v1
 
 # Usage 
 Running `main.R` produces all figures and tables (LaTeX). Several options not in the paper can be explored by
